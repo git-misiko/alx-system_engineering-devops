@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -pvu *.html ..\n
+cp -rua *.html ..\n
